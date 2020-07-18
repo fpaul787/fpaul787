@@ -1,4 +1,7 @@
 # Hello and Welcome
 
-Thank you for visiting my profile. Hopefully you
-will find a project that you like.
+My name is Frantz, and I enjoy programming.
+Thank you for visiting my profile. You will find
+some projects that I have worked on previously. 
+
+👨🏾‍💻
